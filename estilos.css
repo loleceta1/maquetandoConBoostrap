@@ -1,0 +1,32 @@
+
+
+ul{
+    width: 100%;
+    align-items: right !important;
+    display: flex !important;
+    justify-content: space-around !important;
+  }
+  
+
+.navbar{
+    background-color: black !important;
+    align-items: right !important;
+   
+}
+.navbar-brand{
+    color: blue !important;
+}
+.nav-link{
+    color: blue !important;
+}
+.divcoder{
+   height: 100%;
+    border: 2px solid blue;
+}
+.container-fluid{
+    background-color: black;
+}
+img imagen1{
+    width: auto;
+    height: 100%;
+}
